@@ -32,7 +32,7 @@ int main()
 	}
 	else
 	{
-		printf("You pressed an invlaid input!\n\tTry again:(");
+		printf("You pressed an invalid input!\n\tTry again:(");
 	}
 }
 
